@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="ecomode.png" alt="ecomode" height="80">
+  <img src="FileStudioMainIcon.png" alt="FileStudioMainIcon" height="80">
+  <img src="javapowered.png" alt="javapowered" height="80">
+  <img src="VitalSoft1.png" alt="VitalSoft1" height="80">
+  
+</p>
+
 # VitalSoft
 
 Welcome to **VitalSoft** — an organization dedicated to building open source software that empowers everyone, especially those with low-end devices and limited resources.
