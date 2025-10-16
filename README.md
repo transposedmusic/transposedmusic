@@ -8,7 +8,7 @@
 
 # VitalSoft
 
-Welcome to **VitalSoft** — an organization dedicated to building open source software that empowers everyone, especially those with low-end devices and limited resources.
+Welcome to **VitalSoft**  an organization dedicated to building open source software that empowers everyone, especially those with low-end devices and limited resources.
 
 ## Our Mission
 
